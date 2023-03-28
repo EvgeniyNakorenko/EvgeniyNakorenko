@@ -1,6 +1,6 @@
 - 👋 Hi, I’m EvgeniyNakorenko.
 - 👀 I’m interested in skiing, boxing, fishing, PS FIFA.
-- 🌱 I’m currently learning to use kotlin, to speedreading.
+- 🌱 I’m currently learning to use kotlin.
 - 💞️ I’m looking to collaborate with Alphabet Inc.
 - 📫 How to reach me: nakorenko_zheka@mail.ru , 89636942629.
 
