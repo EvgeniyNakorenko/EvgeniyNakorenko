@@ -1,7 +1,6 @@
 - 👋 Hi, I’m EvgeniyNakorenko.
 - 👀 I’m interested in skiing, boxing, fishing, PS FIFA.
-- 🌱 I’m currently learning to develop android apps.
-- 💞️ I’m looking to collaborate with Alphabet Inc.
+- 🌱 I’m android developer.
 - 📫 How to reach me: nakorenko_zheka@mail.ru , 89636942629.
 
 <!---
